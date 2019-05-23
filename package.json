@@ -1,12 +1,12 @@
 {
-  "name": "reactjs-popup",
-  "version": "1.3.2",
+  "name": "tsurutan-reactjs-popup",
+  "version": "1.3.3",
   "description": "React Popup Component - Modals,Tooltips and Menus —  All in one",
-  "main": "reactjs-popup.cjs.js",
-  "module": "reactjs-popup.es.js",
-  "jsnext:main": "reactjs-popup.es.js",
-  "unpkg": "reactjs-popup.js",
-  "jsdelivr": "reactjs-popup.js",
+  "main": "tsurutan-reactjs-popup.cjs.js",
+  "module": "tsurutan-reactjs-popup.es.js",
+  "jsnext:main": "tsurutan-reactjs-popup.es.js",
+  "unpkg": "tsurutan-reactjs-popup.js",
+  "jsdelivr": "tsurutan-reactjs-popup.js",
   "scripts": {
     "test": "jest",
     "test-watch": "jest --watch",
@@ -57,7 +57,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yjose/reactjs-popup.git"
+    "url": "git+https://github.com/tsurutan/reactjs-popup.git"
   },
   "keywords": [
     "react",
@@ -67,14 +67,14 @@
     "react-modal",
     "reactjs",
     "react-popup",
-    "reactjs-popup",
-    "reactjs-modal",
+    "tsurutan-reactjs-popup",
+    "tsurutan-reactjs-modal",
     "react-tooltip"
   ],
   "author": "Youssouf EL AZIZI <youssoufelazizi@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yjose/reactjs-popup/issues"
+    "url": "https://github.com/tsurutan/reactjs-popup/issues"
   },
   "homepage": "https://react-popup.elazizi.com/"
 }
